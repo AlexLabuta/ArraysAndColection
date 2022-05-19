@@ -1,11 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Разработайте список дел, который управляется командами в консоли. Команды: LIST, ADD, EDIT, DELETE.
- *
- * @Author Adaye
- **/
 public class ToDoArrayList {
 
     private static String comm(String[] commands) { // type command
